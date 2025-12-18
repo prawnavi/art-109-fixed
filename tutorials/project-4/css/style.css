@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: #9fc8e6;
+  color: #1c2414;
+  font-family: "Inconsolata", monospace;
+}
+
+main {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+strong {
+  font-weight: 700;
+}
+
+footer {
+  text-align: center;
+  margin: 60px 0 30px;
+}
